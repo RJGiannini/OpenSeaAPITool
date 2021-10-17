@@ -28,13 +28,13 @@ This project requires multiple imports of various  Python packages related to Ma
 
 ## Examples
 ---
-A case example of loading the API and generating a functionalr dataframe for modeling.
+A case example of loading the API and generating a functional dataframe for modeling.
 
 Loading the API
 
 ![API Call](images/apicall.png)
 
-Cleaned Datafram
+Cleaned Dataframe
 
 ![Dataframe](images/dataframe.png)
 
@@ -45,13 +45,13 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 * Machine Learning Model Group 1:
   * Group focused on number of times and NFT sold
-  * 2 of 3 submodels demonstrate competant accuracy averaging 90%
+  * 2 of 3 submodels demonstrate competent accuracy averaging 90%
   * Prediction test holds at 92% accuracy
   
 
 * Machine Learning Model Group 2:
   * Group focus is on Last Sale Price in Ethereum
-  * 2 of 3 submodels demonstrate competant accuracy averaging 85%
+  * 2 of 3 submodels demonstrate competent accuracy averaging 85%
   * Prediction test holds at 60% accuracy
 
 ## Summary
