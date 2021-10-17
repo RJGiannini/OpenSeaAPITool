@@ -69,6 +69,8 @@ Model 1 best model:
 Model 2 best model
 ![Model 2 layers](images/model_plot_mm_A2.png)
 
+The most recent colab file is 'collection_data10_17_Final_group_8.ipynb' and the most recent powerpoint presentation slide deck is 'nft_robo_predictor10_17_21.pptx'.  Please review these most recent files.
+
 ---
 
 ## Contributors
